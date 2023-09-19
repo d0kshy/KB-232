@@ -1,1 +1,1 @@
-print("Chudliki Budliki")
+print("Alice\n" * 5)
